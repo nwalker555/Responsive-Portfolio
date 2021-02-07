@@ -1,0 +1,38 @@
+body {
+    background-color: rgba(211, 211, 211, 0.493);
+}
+
+.container {
+    margin-right: auto;
+    margin-top: 20px;
+    padding: 20px;
+    background-color: white;
+}
+
+h1 {
+    font-size: 36px;
+    color:lightseagreen;
+}
+
+button {
+    margin-top: 20px;
+}
+
+.container img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 350px;
+    height: 350px;
+    padding: 30px;
+}
+
+nav ul li {
+    list-style: none;
+    float: right;
+}
+
+nav div a {
+    float: left;
+}
