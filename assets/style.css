@@ -36,3 +36,7 @@ nav ul li {
 nav div a {
     float: left;
 }
+
+#idcard {
+    float: right;
+}
